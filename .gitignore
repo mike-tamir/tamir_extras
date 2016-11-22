@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+*.csv
+*.pyc
+cloud_version_log.txt
