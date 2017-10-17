@@ -3,3 +3,5 @@
 *.csv
 *.pyc
 cloud_version_log.txt
+derby.log
+metastore_db/
